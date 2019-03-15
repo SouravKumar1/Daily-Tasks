@@ -1,6 +1,3 @@
 // JavaScrpt starts
 
 // JavaScrpit ends
-
-
-
